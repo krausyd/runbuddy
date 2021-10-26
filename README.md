@@ -12,3 +12,5 @@ https://krausyd.github.io/runbuddy/
 
 ## Contribution
 Made with ❤️ by krausyd
+
+### ©️2019 Run Buddy, Inc
